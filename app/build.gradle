@@ -65,5 +65,5 @@ dependencies {
     implementation project(':libausbc')
 
     // demo
-//    implementation 'com.github.jiangdongguo.AndroidUSBCamera:libausbc:3.3.3'
+//    implementation 'com.github.ravijadav812.AndroidUSBCamera:libausbc:1.0.0'
 }
